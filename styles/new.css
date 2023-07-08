@@ -115,3 +115,13 @@ main{
     font-style: ;
     color: #757575;
 }
+#what{
+    padding: 30px 150px;
+}
+.skills{
+    display: flex;
+}
+.skill{
+    padding: 151px 33px 30 px 33px;
+    margin-right: 25px;
+}
